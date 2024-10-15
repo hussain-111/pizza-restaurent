@@ -1,7 +1,3 @@
-Here's a description for the README file of your pizza restaurant website:
-
----
-
 # Pizza Restaurant Website
 
 Welcome to our Pizza Restaurant website! This site was created in just 5 minutes using an AI tool, and it's designed to showcase our delicious menu, provide information about our restaurant, and allow customers to easily place orders online.
